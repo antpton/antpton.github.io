@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antpton.github.io/sitemap/sitemap.txt
